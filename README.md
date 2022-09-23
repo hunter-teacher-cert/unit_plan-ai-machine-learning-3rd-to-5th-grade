@@ -16,6 +16,9 @@ Students are introduced to a form of artificial intelligence called machine lear
 (why have you decided to make this?)
 
 Working with students with disabilities has shown how interactive students are with robots.  They tend to interact more with robots than with peers and teachers.  With AI, the possibility can be endless.  Students' learning can grow exponentially.
+
+//may need editing
+
 ---
 
 ### Standards Referenced
