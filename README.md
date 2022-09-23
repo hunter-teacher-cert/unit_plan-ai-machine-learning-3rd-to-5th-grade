@@ -30,6 +30,10 @@ Describe computing technologies that have changed the world, and express how tho
 ###### 4-6.IC.5  Impacts of Computing
 Explain how computer systems play a role in human decision-making. 
 
+###### 4-6.IC.6  Impacts of Computing
+Identify and explain ways to improve the accessibility and usability of a computing device or software application for the diverse needs and wants of users.
+
+
 ---
 
 ### Tools Used
