@@ -24,6 +24,7 @@ Describe computing technologies that have changed the world, and express how tho
 
 ###### 4-6.IC.5  Impacts of Computing
 Explain how computer systems play a role in human decision-making. 
+
 ---
 
 ### Tools Used
