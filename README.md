@@ -19,10 +19,10 @@ Students are introduced to a form of artificial intelligence called machine lear
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
-#####4-6.IC.1  Impacts of Computing
+##### 4-6.IC.1  Impacts of Computing
 Describe computing technologies that have changed the world, and express how those technologies influence, and are influenced by cultural practices.
 
-######4-6.IC.5  Impacts of Computing
+###### 4-6.IC.5  Impacts of Computing
 Explain how computer systems play a role in human decision-making. 
 ---
 
