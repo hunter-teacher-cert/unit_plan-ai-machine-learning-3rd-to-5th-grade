@@ -8,7 +8,8 @@ by Qianhui Vanessa Zou, Alana Robinson
 
 Students are introduced to a form of artificial intelligence called machine learning.  We will look into how AI address world problems and how they can use the Problem Solving Process to help.  This can be part of CS classes and social studies.  
 
-*How to answer when?*
+//How to answer when?
+
 ---
 
 ### Motivation for Unit
