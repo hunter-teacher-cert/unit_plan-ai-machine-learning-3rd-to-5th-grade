@@ -5,6 +5,7 @@ by Qianhui Vanessa Zou, Alana Robinson
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
+
 Students are introduced to a form of artificial intelligence called machine learning.  We will look into how AI address world problems and how they can use the Problem Solving Process to help.  This can be part of CS classes and social studies.  
 
 *How to answer when?*
@@ -17,9 +18,12 @@ Students are introduced to a form of artificial intelligence called machine lear
 
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
-#####4-6.IC.1
+
+#####4-6.IC.1  Impacts of Computing
 Describe computing technologies that have changed the world, and express how those technologies influence, and are influenced by cultural practices.
 
+######4-6.IC.5  Impacts of Computing
+Explain how computer systems play a role in human decision-making. 
 ---
 
 ### Tools Used
