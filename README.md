@@ -17,8 +17,7 @@ Students are introduced to a form of artificial intelligence called machine lear
 ### Motivation for Unit
 (why have you decided to make this?)
 
-Working with students with disabilities has shown how interactive students are with robots.  They tend to interact more with robots than with peers and teachers.  With AI, the possibility can be endless.  Students' learning can grow exponentially.
-
+Working with students with disabilities have shown how interactive students are with robots and they have frequently and boisterously expressed their interest in how A.I. technology like Alexa, Google, and Siri work. They often speculate about whether these tools are smarter than humans and some students adamantly say that these A.I. devices are smarter than us. They tend to interact more with robots and these A.I. tools than with peers and teachers.  With AI, the possibility can be endless. Students' learning can grow exponentially. This unit seeks to demystify the mythical perception that students have about these devices and strengthen their understanding of A.I. and Machine Learning.    
 //may need editing
 
 ---
