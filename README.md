@@ -47,7 +47,7 @@ Present the same data in multiple visual formats in order to tell a story about 
 
 ###### 4-6.CT.3 Computational Thinking - Data Analysis & Visualization
 Visualize a simple data set in order to highlight relationships and persuade an audience.
-**
+
 ---
 
 ### Tools Used
