@@ -6,7 +6,7 @@ by Qianhui Vanessa Zou, Alana Robinson (#The Bots?? #Team Name)
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
 
-Students are introduced to a form of artificial intelligence called machine learning.  We will look into how AI address world problems and how they can use the Problem Solving Process to help.  This can be part of CS classes and social studies.  
+Students are introduced to a form of artificial intelligence called machine learning. Students learn about the data and what types of data is used in A.I. and Machine Learning.  We will look into how AI address world problems and how they can use the Problem Solving Process to help.  This can be part of a standalong CS class or integrated into a social studies and CS class.  
 
 //How to answer when?
 
