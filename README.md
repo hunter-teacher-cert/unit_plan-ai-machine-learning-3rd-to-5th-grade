@@ -1,5 +1,5 @@
-# UNIT PLAN NAME
-by Qianhui Vanessa Zou, Alana Robinson
+# UNIT PLAN NAME Impacts of Artificial Intelligence and Machine Learning 
+by Qianhui Vanessa Zou, Alana Robinson (#The Bots?? #Team Name)
 
 -----
 
