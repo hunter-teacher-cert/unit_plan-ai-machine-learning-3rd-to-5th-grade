@@ -1,10 +1,9 @@
 # UNIT PLAN NAME: Impacts of Artificial Intelligence and Machine Learning OR THE A.I. BOTS in Our Lives
-by Qianhui Vanessa Zou, Alana Robinson (#The A.I. Bots?? #Team Name)
+by Qianhui Vanessa Zou, Alana Robinson (#The A.I. Bots)
 
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
 
 Recommended for Grades 3-5 in a stand alone CS class or integrated into a social studies class and for general education or students with disabilities and neurodiverse learners.
 
@@ -12,15 +11,13 @@ Students are introduced to a form of artificial intelligence called machine lear
 
 This can be part of a standalong CS class or integrated into a social studies and CS class that looks at the role of A.I  
 
-//How to answer when?
 
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
 
 Working with students with disabilities have shown how interactive students are with robots and they have frequently and boisterously expressed their interest in how A.I. technology like Alexa, Google, and Siri work. They often speculate about whether these tools are smarter than humans and some students adamantly say that these A.I. devices are smarter than us. They tend to interact more with robots and these A.I. tools than with peers and teachers.  With AI, the possibility can be endless. Students' learning can grow exponentially. This unit seeks to demystify the mythical perception that students have about these devices and strengthen their understanding of A.I. and Machine Learning.    
-//may need editing
+
 
 ---
 
