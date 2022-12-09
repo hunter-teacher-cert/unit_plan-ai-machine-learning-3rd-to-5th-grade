@@ -62,16 +62,16 @@ Ch.6 Formative feedback.pdf: https://drive.google.com/file/d/1NBfKjIYihUXF3QORDm
 Total lenght: 2 - 3 Weeks
 
 (list each lesson with main topic(s))
-Lesson 1: Introduction to A.I.: What is A.I. and Machine Learning ? (Vanessa)
-Lesson 2: A.I. in our Daily Lives (Alana)
-Lesson 3: How A.I. Learn ? (Vanessa)
-Lesson 4: Training an A.I. Bot (Alana)
-Lesson 5: Training an A.I. Bot (Classification & Ethics) (Alana)
-Lesson 6: Training Data and Bias (Vanessa)
-Lesson 7: Retrain the A.I. Bot Incorrectly: A.I. in the Oceans (Vanessa)
-Lesson 8: What A.I. does well and does not do well, part 1? (Alana)
-Lesson 9: What A.I. does well and does not do well, part 2? (Alana)
-Lesson 10: Final Project in Scratch Jr. How would A.I. learn? (Vanessa)
+1. Lesson 1: Introduction to A.I.: What is A.I. and Machine Learning ? (Vanessa)
+2. Lesson 2: A.I. in our Daily Lives (Alana)
+3. Lesson 3: How A.I. Learn ? (Vanessa)
+4. Lesson 4: Training an A.I. Bot (Alana)
+5. Lesson 5: Training an A.I. Bot (Classification & Ethics) (Alana)
+6. Lesson 6: Training Data and Bias (Vanessa)
+7. Lesson 7: Retrain the A.I. Bot Incorrectly: A.I. in the Oceans (Vanessa)
+8. Lesson 8: What A.I. does well and does not do well, part 1? (Alana)
+9. Lesson 9: What A.I. does well and does not do well, part 2? (Alana)
+10. Lesson 10: Final Project in Scratch Jr. How would A.I. learn? (Vanessa)
 
 ---
 
