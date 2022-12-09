@@ -1,4 +1,4 @@
-# UNIT PLAN NAME: Impacts of Artificial Intelligence and Machine Learning OR THE A.I. BOTS in Our Lives
+# UNIT PLAN NAME: Impacts of Artificial Intelligence and Machine Learning: How the A.I. BOTS in Our Lives Learn
 by Qianhui Vanessa Zou, Alana Robinson (#The A.I. Bots)
 
 -----
