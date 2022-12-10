@@ -48,6 +48,7 @@ Visualize a simple data set in order to highlight relationships and persuade an 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Block-based/Blockly Code
+* [Scratch Jr](https://www.scratchjr.org/)
 
 ---
 
@@ -65,10 +66,10 @@ Total lenght: 2 - 3 Weeks
 * Lesson 1: Introduction to A.I.: What is A.I. and Machine Learning ? (Vanessa)
 * Lesson 2: A.I. in our Daily Lives (Alana)
 * Lesson 3: How A.I. Learn ? (Vanessa)
-* Lesson 4: Training an A.I. Bot (Alana)
-* Lesson 5: Training an A.I. Bot (Classification & Ethics) (Alana)
-* Lesson 6: Training Data and Bias (Vanessa)
-* Lesson 7: Retrain the A.I. Bot Incorrectly: A.I. in the Oceans (Vanessa)
+* Lesson 4: Training an A.I. Bot, part 1 (Alana)
+* Lesson 5: Training an A.I. Bot, part 2 (Classification & Ethics) (Alana)
+* Lesson 6: Retrain the A.I. Bot Incorrectly: A.I. in the Oceans (Vanessa)
+* Lesson 7: Training Data and Bias (Vanessa)
 * Lesson 8: What A.I. does well and does not do well, part 1? (Alana)
 * Lesson 9: What A.I. does well and does not do well, part 2? (Alana)
 * Lesson 10: Final Project in Scratch Jr. How would A.I. learn? (Vanessa)
