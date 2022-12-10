@@ -78,12 +78,12 @@ Total lenght: 2 - 3 Weeks
 
 ### Assesments
 (list summative and/or formative assessments used)
-Peer to Peer Interview
-Showcasing: Peer and Self Assessment
-Assess and Discuss
-Entry and Exit Tickets
-Video & Audio Self Explanation and Reflection
-Artifact-based Interviews
+* Peer to Peer Interview
+* Showcasing: Peer and Self Assessment
+* Assess and Discuss
+* Entry and Exit Tickets
+* Video & Audio Self Explanation and Reflection
+* Artifact-based Interviews
 
 
 ---
