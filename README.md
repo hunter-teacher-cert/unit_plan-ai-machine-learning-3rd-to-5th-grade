@@ -55,8 +55,8 @@ Block-based/Blockly Code
 ### Resources
 (include any links/books/readings to be used during this unit)
 
-* Ch.6 Formative feedback.pdf: https://drive.google.com/file/d/1NBfKjIYihUXF3QORDmNB3SdnU-XSp3k1/view
-* Seesaw (https://web.seesaw.me/)
+* [Ch.6 Formative feedback.pdf:](https://drive.google.com/file/d/1NBfKjIYihUXF3QORDmNB3SdnU-XSp3k1/view)
+* [Seesaw](https://web.seesaw.me/)
 
 ---
 
