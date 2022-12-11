@@ -31,14 +31,29 @@ Explain how computer systems play a role in human decision-making.
 ###### 4-6.IC.6  Impacts of Computing
 Identify and explain ways to improve the accessibility and usability of a computing device or software application for the diverse needs and wants of users.
 
+###### 2-3.IC.1 Impacts of Computing
+Identify and analyze how computing technology has changed the way people live and work.
+
+###### 2-3.IC.3 Impacts of Computing
+Discuss and explain how computing technology can be used in society and the world.
+
+###### 2-3.IC.5 Impacts of Computing
+Identify and discuss how computers are programmed to make decisions without direct human input in daily life.
+
 ###### K-1.CT.2 Computational Thinking - Data Analysis & Visualization
 Identify different kinds of data that can be collected from everyday life.
 
 ###### K-1.CT.3 Computational Thinking - Data Analysis & Visualization
 Identify ways to visualize data, and collaboratively create a visualization of data.
 
+###### 2-3.CT.1 Computational Thinking - Modeling & Simulation
+Create a model of an object or computational process in order to idenfity patterns and essential elements of the object or process.
+
 ###### 2-3.CT.3 Computational Thinking - Data Analysis & Visualization
 Present the same data in multiple visual formats in order to tell a story about the data.
+
+###### 4-6.CT.1 Computational Thinking - Modeling & Simulation 
+Develop a computational model of a system that shows changes in output when there are changes in inputs.
 
 ###### 4-6.CT.3 Computational Thinking - Data Analysis & Visualization
 Visualize a simple data set in order to highlight relationships and persuade an audience.
