@@ -77,7 +77,7 @@ Block-based/Blockly Code
 ---
 
 ### Lessons
-Total lenght: 2 - 3 Weeks
+Total length: 2 - 3 Weeks
 
 (list each lesson with main topic(s))
 * Lesson 1: Introduction to A.I.: What is A.I. and Machine Learning ? (Vanessa)
@@ -99,7 +99,7 @@ Total lenght: 2 - 3 Weeks
 * Showcasing: Peer and Self Assessment
 * Assess and Discuss
 * Entry and Exit Tickets
-* Video & Audio Self Explanation and Reflection
+* Video & Audio Self Explanation and Reflection using Seesaw
 * Artifact-based Interviews
 
 
