@@ -73,6 +73,8 @@ Block-based/Blockly Code
 * [Code.Org's A.I. for Oceans Module](https://code.org/oceans)
 * [Ch.6 Formative feedback.pdf:](https://drive.google.com/file/d/1NBfKjIYihUXF3QORDmNB3SdnU-XSp3k1/view)
 * [Seesaw](https://web.seesaw.me/)
+* [Raise.Mit.Edu - Zhorai, an artificial intelligent conversation agent](https://raise.mit.edu/zhorai.html)
+
 
 ---
 
