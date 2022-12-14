@@ -76,6 +76,7 @@ Block-based/Blockly Code
 * [Raise.Mit.Edu - Zhorai, an artificial intelligent conversation agent](https://raise.mit.edu/zhorai.html)
 * [Raise.Mit.Edu Github](https://github.com/jessvb/zhorai/blob/master/Report-Materials/6_S898___Zhorai_K_12_Education.pdf
 )
+* [Zhorai Activity 1: What does Zhorai know?](https://zhorai.readyai.org/activity-1)
 * [Elements of A.I. Free Course for Educators](https://course.elementsofai.com/)
 * 
 
