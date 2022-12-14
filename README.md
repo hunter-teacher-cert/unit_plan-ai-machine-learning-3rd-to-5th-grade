@@ -70,6 +70,7 @@ Block-based/Blockly Code
 ### Resources
 (include any links/books/readings to be used during this unit)
 
+* [How to Teach A.I.: Why All Students Need to Start Learning About Artificial Intelligence](https://www.weareteachers.com/how-to-teach-ai/)
 * [Code.Org's A.I. for Oceans Module](https://code.org/oceans)
 * [Ch.6 Formative feedback.pdf:](https://drive.google.com/file/d/1NBfKjIYihUXF3QORDmNB3SdnU-XSp3k1/view)
 * [Seesaw](https://web.seesaw.me/)
