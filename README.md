@@ -74,6 +74,8 @@ Block-based/Blockly Code
 * [Ch.6 Formative feedback.pdf:](https://drive.google.com/file/d/1NBfKjIYihUXF3QORDmNB3SdnU-XSp3k1/view)
 * [Seesaw](https://web.seesaw.me/)
 * [Raise.Mit.Edu - Zhorai, an artificial intelligent conversation agent](https://raise.mit.edu/zhorai.html)
+* [Raise.Mit.Edu Github](https://github.com/jessvb/zhorai/blob/master/Report-Materials/6_S898___Zhorai_K_12_Education.pdf
+)
 * [Elements of A.I. Free Course for Educators](https://course.elementsofai.com/)
 * 
 
