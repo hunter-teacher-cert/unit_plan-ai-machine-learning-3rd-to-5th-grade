@@ -64,6 +64,8 @@ Visualize a simple data set in order to highlight relationships and persuade an 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Block-based/Blockly Code
 * [Scratch Jr](https://www.scratchjr.org/)
+* [Scratch](scratch.org)
+* [AI for Oceans #2 - Code.org](https://studio.code.org/s/oceans/lessons/1/levels/2)
 
 ---
 
@@ -95,7 +97,10 @@ Block-based/Blockly Code
 * [Artificial Intelligence: What Is Reinforcement Learning - A Simple Explanation & Practical Examples | Bernard Marr](https://bernardmarr.com/artificial-intelligence-what-is-reinforcement-learning-a-simple-explanation-practical-examples/)
 * [AI for Oceans #2 - Code.org](https://studio.code.org/s/oceans/lessons/1/levels/2)
 * [Unit 7 - AI and Machine Learning](https://studio.code.org/s/csd7-2021?section_id=3875654)
-
+* [ISTE’s Hands-On AI Projects for the Classroom: A Guide for Elementary Teachers Hands-On - AI Projects](https://cdn.iste.org/www-root/Libraries/Documents%20%26%20Files/Artificial%20Intelligence/AIGDK5_1120.pdf)
+* [What’s Intelligent about Artificial Intelligence](https://www.youtube.com/watch?v=xR6j9TLZdAw)
+* [A Big Data Cheat Sheet: From Narrow AI to General AI | by Jonathan Howard | Medium](https://medium.com/@jonathanhoward_4188/3-types-of-artificial-intelligence-4fb7df20fdd8)
+* [Two Amazon Echos chatting with each other #SeeBotsChat](https://www.youtube.com/watch?v=8zR0Hxojce4)
 
 
 ---
@@ -113,7 +118,7 @@ Total length: 2 - 3 Weeks
 * Lesson 7: Training Data and Bias (Vanessa)
 * Lesson 8: What A.I. does well and does not do well, part 1? (Alana)
 * Lesson 9: What A.I. does well and does not do well, part 2? (Alana)
-* Lesson 10: Final Project in Scratch Jr. How would A.I. learn? (Vanessa)
+* Lesson 10: Final Project in Scratch Jr. How would A.I. learn? (2-3 days project) (Vanessa)
 
 ---
 
