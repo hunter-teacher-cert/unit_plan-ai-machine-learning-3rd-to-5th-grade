@@ -68,7 +68,6 @@ Block-based/Blockly Code
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
 
 * [How to Teach A.I.: Why All Students Need to Start Learning About Artificial Intelligence](https://www.weareteachers.com/how-to-teach-ai/)
 * [Code.Org's A.I. for Oceans Module](https://code.org/oceans)
@@ -79,7 +78,25 @@ Block-based/Blockly Code
 )
 * [Zhorai Activity 1: What does Zhorai Know?](https://zhorai.readyai.org/activity-1)
 * [Elements of A.I. Free Course for Educators](https://course.elementsofai.com/)
-* 
+* [22 Examples of Artificial Intelligence in Daily Live (2022) | Beebom](https://beebom.com/examples-of-artificial-intelligence/)
+* [Scratch Jr.](https://www.scratchjr.org/)
+* [Episode 09: Machine Learning and AI](https://www.youtube.com/watch?v=Wm1Id-vEX3U&t=9s)
+* [Computer Science in One Minute - Episode 26 - CAPTCHA](https://www.youtube.com/watch?v=f-vuvvTliek)
+* [CAPTCHA | Hello Ruby](https://www.helloruby.com/play/53)
+* [Day of AI Australia](https://dayofaiaustralia.com/)
+* [online course - Elements of AI](https://course.elementsofai.com/)
+* [Love Letters to Computers | Hello Ruby](https://www.helloruby.com/loveletters)
+* [What is AI for Kids?  An Introduction to Artificial Intelligence for Kids | Inspirit Scholars](https://www.inspiritscholars.com/blog/what-is-ai-for-kids/)
+* [Articifial Intelligence Facts for Kids](https://kids.kiddle.co/Artificial_intelligence)
+* [Machine Learning](https://machinelearningforkids.co.uk/#!/about)
+* [Children's Guide to Machine Learning | by Kannan Kumar | Towards Data Science](https://towardsdatascience.com/childrens-guide-to-machine-learning-b90171f86cef)
+* [Emoji Scavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
+* [This robot dog just taught itself to walk | MIT Technology Review](https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/)
+* [Artificial Intelligence: What Is Reinforcement Learning - A Simple Explanation & Practical Examples | Bernard Marr](https://bernardmarr.com/artificial-intelligence-what-is-reinforcement-learning-a-simple-explanation-practical-examples/)
+* [AI for Oceans #2 - Code.org](https://studio.code.org/s/oceans/lessons/1/levels/2)
+* [Unit 7 - AI and Machine Learning](https://studio.code.org/s/csd7-2021?section_id=3875654)
+
+
 
 ---
 
