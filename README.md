@@ -102,6 +102,7 @@ Block-based/Blockly Code
 * [A Big Data Cheat Sheet: From Narrow AI to General AI | by Jonathan Howard | Medium](https://medium.com/@jonathanhoward_4188/3-types-of-artificial-intelligence-4fb7df20fdd8)
 * [Two Amazon Echos chatting with each other #SeeBotsChat](https://www.youtube.com/watch?v=8zR0Hxojce4)
 * [Tic Tac Toe vs AI](https://www.aaronccwong.com/tic-tac-toe)
+* [Write With Transformer](https://transformer.huggingface.co/)
 
 
 ---
